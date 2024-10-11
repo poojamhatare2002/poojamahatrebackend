@@ -1,0 +1,1187 @@
+
+/* BASIC Progrma*/
+1) Display Hello World
+package Orangeit;
+
+public class helloword {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Hello World");
+	}
+
+}
+
+2)Addition of 2 numbers
+
+package Orangeit;
+
+public class Additionof5number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1=21,n2=45,sum;
+       sum=n1+n2;
+       System.out.println("sum="+sum);
+		
+		
+		
+	}
+
+}
+
+3)Substraction
+package Orangeit;
+
+public class substractiontwonumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int firstnumber=34,secondnumber =31,sub;
+		sub=firstnumber-secondnumber;
+		System.out.println("Sum Of Two Number="+sub);
+		
+	}
+}
+
+4)Division
+package Orangeit;
+
+public class Divisionoftwonumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int firstnumber=34,secondnumber =31,div;
+		div=firstnumber+secondnumber;
+		System.out.println("Sum Of Two Number="+div);
+		
+	}
+}
+
+5)multiplication
+package Orangeit;
+
+public class multiplicationoftwonumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int firstnumber=34,secondnumber =31,mul;
+		mul=firstnumber*secondnumber;
+		System.out.println("Multiplication Of Two Number="+mul);
+		
+	}
+}
+              
+6)addition of 5 no
+package Orangeit;
+
+public class Additionof5number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1=21,n2=45,n3=2,n4=45,n5=23,sum;
+       sum=n1+n2+n3+n4+n5;
+       System.out.println("sum="+sum);
+		
+		
+		
+	}
+
+}
+
+7)addition of 7 no
+package Orangeit;
+
+public class Additionof7number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1=21,n2=45,n3=2,n4=45,n5=23,n6=33,n7=32,sum;
+       sum=n1+n2+n3+n4+n5+n6+n7;
+       System.out.println("sum="+sum);
+		
+		
+		
+	}
+
+}
+
+
+8)Multiplication of 4 no.
+package Orangeit;
+
+public class multiplicationofournumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int firstnumber=34,secondnumber =31,thirdnumber=21,fourthnumber=23,mul;
+		mul=firstnumber*secondnumber*thirdnumber*fourthnumber;
+		System.out.println("Multiplication Of Four Number="+mul);
+		
+	}
+}
+              
+9)Substraction
+package Orangeit;
+
+public class Substractionf2number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1,n2,sub;
+	   Scanner s=new Scanner(System.in);
+	   System.out.println("Enter Two Number");
+	   n1=s.nextInt();
+	   n2=s.nextInt();
+       sum=n1-n2;
+       System.out.println("sub="+sub);
+		
+		
+		
+	}
+
+}
+
+10)Addition
+package Orangeit;
+
+public class Additionof2number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1,n2,sum;
+	   Scanner s=new Scanner(System.in);
+	   System.out.println("Enter Two Number");
+	   n1=s.nextInt();
+	   n2=s.nextInt();
+       sum=n1+n2;
+       System.out.println("sum="+sum);
+		
+		
+		
+	}
+
+}
+11)division
+package Orangeit;
+
+public class divisionof2number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1,n2,div;
+	   Scanner s=new Scanner(System.in);
+	   System.out.println("Enter Two Number");
+	   n1=s.nextInt();
+	   n2=s.nextInt();
+       sum=n1/n2;
+       System.out.println("div="+div);
+		
+		
+		
+	}
+
+}
+12)Addition of 5 numbers.
+package Orangeit;
+public class divisionof2number
+{
+public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1,n2,n3,n4,n5,sum;
+	   Scanner s=new Scanner(System.in);
+	   System.out.println("Enter Seven Number");
+	   n1=s.nextInt();
+	   n2=s.nextInt();
+	    n3=s.nextInt();
+	   n4=s.nextInt();
+	    n5=s.nextInt();
+	
+       sum=n1+n2+n3+n4+n5;
+       System.out.println("sum="+sum);
+	   }
+}
+13)Addition of 7 numbers.
+package Orangeit;
+public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1,n2,n3,n4,n5,n6,n7,sum;
+	   Scanner s=new Scanner(System.in);
+	   System.out.println("Enter Two Number");
+	   n1=s.nextInt();
+	   n2=s.nextInt();
+	    n3=s.nextInt();
+	   n4=s.nextInt();
+	    n5=s.nextInt();
+	
+       sum=n1+n2+n3+n4+n5+n6+n7;
+       System.out.println("sum="+sum);
+	   }
+ }
+
+14)Multiplication of 4 numbers
+package Orangeit;
+public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int n1,n2,n3,n4,mul;
+	   Scanner s=new Scanner(System.in);
+	   System.out.println("Enter Two Number");
+	   n1=s.nextInt();
+	   n2=s.nextInt();
+	    n3=s.nextInt();
+	   n4=s.nextInt();
+	    n5=s.nextInt();
+	
+       mul=n1*n2*n3*n4;
+       System.out.println("mul="+mul);
+	   }
+ }
+ 
+ 14)Area of Circle
+ package Orangeit;
+
+import java.util.Scanner;
+
+public class p6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int r;
+		 double pi=3.14,area,Circumference;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter R value:");
+		r=s.nextInt();
+		area=pi*(r*r);
+		Circumference=2*pi*r;
+		System.out.println("Area of  Circle="+area);
+		System.out.println("Circumference of circle ="+Circumference);
+		
+	}
+
+}
+
+15)area of Rectangle
+
+16)Area of triangle
+
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p21 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		float b,h,A;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter  B & H value :");
+		b=s.nextFloat();
+		h=s.nextFloat();
+		 A = (b * h) / 2;
+		 System.out.println("Area Of Triangle :"+A);
+		}
+
+}
+
+
+17)Kinetic Energy
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int m,g,h,v,e;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter m,g,h,v ");
+		m=s.nextInt();
+		g=s.nextInt();
+		h=s.nextInt();
+		v=s.nextInt();
+		e=(m*g*h)+(1/2)*(m*v*v);
+		System.out.println("E="+e);
+
+	}
+
+}
+
+
+18)Potential Energy
+pe=m*g*h;
+i/p m,g,h
+o/p pe
+
+19)Arithmetic mean & harmonic mean
+am=(a+b)/2
+hm=(a-b)/2
+i/p a,b
+o/p am,hm
+
+import java.util.*;
+
+
+public class Main 
+{
+
+	public static void main(String[] args)
+	{
+		double a,b,hm,am;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter value of a & b");
+		a=sc.nextDouble();
+		b=sc.nextDouble();
+		am=(a+b)/2;
+		hm=(a-b)/2;
+		System.out.println("Arithmetic mean="+am);
+		System.out.println("Harmonic mean="+hm);
+
+	}
+
+}
+
+20) Convert Fahrenheit to celcius & kelvin
+package Orangeit;
+
+import java.util.Scanner;
+
+public class CelciusAndKelvin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		float F,C;
+		double K;
+		System.out.println("Enter F Value");
+		Scanner Sc=new Scanner(System.in);
+		F=Sc.nextFloat();
+		C=(9/5)*(F-32);
+		K=C+273.15;
+		System.out.println("Celcius="+C);
+		System.out.println("Kelvin="+K);
+		
+	}
+
+}
+
+
+
+21)
+package Orangeit;
+
+import java.util.Scanner;
+
+public class calculateper {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int marathi,English,Maths,History,Hindi,total;
+		double per;
+		System.out.println("Enter 5 Subject Marks:");
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Marathi Marks:");
+		marathi=sc.nextInt();
+		System.out.println("Enter English Marks:");
+		English=sc.nextInt();
+		System.out.println("Enter Maths Marks:");
+		Maths=sc.nextInt();
+		System.out.println("Enter History Marks:");
+		History=sc.nextInt();
+		System.out.println("Enter Hindi Marks:");
+		Hindi=sc.nextInt();
+		total=marathi+English+Maths+History+Hindi;
+		per=total/5;
+		System.out.println("Total marks of 5 Subject:"+total);
+		System.out.println("percentage:"+per+"%");
+		
+		
+		
+
+	}
+
+}
+
+
+
+22)accept basic salary from user & calculate hra,ta,da tax & gs
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p17 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int basicsalary;
+		double hra,da,gs;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter yoour basic Salary:");
+		basicsalary=s.nextInt();
+		
+		hra=basicsalary*0.20;
+		da=basicsalary*0.40;
+		gs=hra+da;
+		System.out.println(" HRA="+hra+" DA="+da+" Gross Salary="+gs);
+		
+
+	}
+
+}
+23)
+room l,b,h
+- door l1,h1
+- window l2,h2(2 window)
+- floor(l*b)
+calculate total area with roof is painted
+package Orangeit;
+
+import java.util.Scanner;
+
+public class program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	 double l,b,h,l1,h1,l2,b2,total;
+	 Scanner sc=new Scanner(System.in);
+	 System.out.println("Enter l,b,h of room & l1,h2 for door & l2 ,h2 for window");
+	 l=sc.nextDouble();
+	 b=sc.nextDouble();
+	 h=sc.nextDouble();
+	 l1=sc.nextDouble();
+	 h1=sc.nextDouble();
+	 l2=sc.nextDouble();
+	 b2=sc.nextDouble();
+	 total=2*(l*b + b*h + l*h)-(l*b*h)-2*(l1*h1)-(l2*b2)-(l*b);
+	 System.out.println("Area to paint ="+total);
+	 
+	 
+	 }
+
+}
+
+24)swapping Using third variable
+
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p15 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a,b,c;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter  A & b:");
+		a=s.nextInt();
+		b=s.nextInt();
+		System.out.println("Before Swapping "+"a="+a+"b="+b);
+		c=a;
+		a=b;
+		b=c;
+		System.out.println("After Swapping "+"a="+a+"b="+b);
+		
+		
+	}
+
+}
+
+25)without Using third variable swapping 
+package Orangeit;
+
+import java.util.Scanner;
+
+public class withoutthirdvaraibale {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 int a,b;//a=23 b=56
+         Scanner sc=new Scanner (System.in);
+         System.out.println("Enter A & b");
+         a=sc.nextInt();
+         b=sc.nextInt();//a=20 b=10
+         System.out.println( "Before Swapping" +  " A="+a +"&" +" b="+b);
+         a=a+b;// a=30
+         b=a-b;//b=10
+         a=a-b;//a=20
+         System.out.println( "after Swapping" +  "  A="+a +"&" +" b="+b);
+		 }
+}
+         
+26)i/p h,m,s
+o/p seconds
+package Orangeit;
+
+import java.util.Scanner;
+
+public class conversion2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        int h,m,s;
+        Scanner sc=new Scanner(System.in);
+        System.out.println(" Enter a hour & Minute& seconds:");
+        h=sc.nextInt();
+        m=sc.nextInt();
+        s=sc.nextInt();
+        s=(h*3600)+(m*60)+s;
+        System.out.println("Seconds:"+s);
+	}
+
+}
+
+27)
+i/p km
+o/p m
+
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p18 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        double km,m,cm;
+        Scanner s=new Scanner(System.in);
+        System.out.println("Enter Km :");
+        km=s.nextDouble();
+        m=km*1000;
+        cm=m*100;
+        System.out.println("kilomiter="+km);
+        System.out.println("m="+m);
+        System.out.println("cm="+cm);
+        
+		
+	}
+
+}
+
+
+28)
+i/p liter
+o/p ml
+package Orangeit;
+
+import java.util.Scanner;
+
+public class convertlitertomilliter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int liter,mililiter;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter A liter to conver Milimter");
+		liter=sc.nextInt();
+		mililiter=liter*1000;
+		System.out.println(liter+"="+mililiter+"mililiter");
+		int liter1,mililiter1;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter A Milimter to conver liter : ");
+		mililiter1=s.nextInt();
+		liter=mililiter1/1000;
+		System.out.println("mililiter"+mililiter1+"liter="+liter);
+		
+	}
+
+}
+
+29)/1000
+i/p meter
+o/p km
+
+package Orangeit;
+
+import java.util.Scanner;
+
+public class covertkmtom {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int km,m;
+       Scanner sc=new Scanner(System.in);
+       System.out.println("Enter km");
+       km=sc.nextInt();
+       m=km*1000;
+       System.out.println("M="+m);
+       int km1,m1;
+       Scanner s=new Scanner(System.in);
+       System.out.println("Enter  m to convert kilometer ");
+       m1=sc.nextInt();
+       km1=m1%1000;
+       System.out.println(m1+"meter"+km1+"kilometer");
+		
+		
+	}
+
+}
+
+
+30)Accept seconds from user & display it in h:m:s format
+
+package Orangeit;
+
+import java.util.Scanner;
+
+public class conversion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int s,h,m,s1,a;
+	       Scanner sc=new Scanner(System.in);
+	       System.out.println("Enter seconds :");
+	       s=sc.nextInt();
+	       h=s/3600;//
+	       a=s%3600;
+	       m=a/60;
+	       s1=a%60;
+	       System.out.println(h+":"+m+":"+s1);
+	}
+
+}
+31)Accept amount from user 
+i/p 8888
+o/p
+2000*4=8000 SOP("2000*"+twot+"="+(2000*towt));
+500*1=500
+200*1=200
+100*1=100
+50*1=50
+20*1=20
+10*1=10
+5*1=5
+2*1=2
+1*1=1
+______________
+total=8888
+
+package Orangeit;
+
+import java.util.Scanner;
+
+public class Rupees {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int fivehundred=500,twohundred=200,onehundred=100,fifty=50,twenty=20,ten=10,five=5,two=2,one=1,amount,total=0;
+		Scanner Sc=new Scanner(System.in);
+		System.out.println("Enter Amount :");
+		amount=Sc.nextInt();
+		int a=amount/ fivehundred;
+		total=fivehundred*a;
+	    System.out.println( fivehundred+"*"+a+"="+(fivehundred*a));
+	    int remaining=amount-(fivehundred*a);//1888-1500=388
+	    int b= remaining/twohundred;//388/200=1
+	   total=total+twohundred*b;
+	    System.out.println( twohundred+"*"+b+"="+(twohundred*b));
+	    remaining=remaining-(twohundred*b);//388-200=188
+	    int c= remaining/onehundred;//188/100=1
+	    total=total+onehundred*c;
+	    System.out.println( onehundred+"*"+c+"="+(onehundred*c));
+	    remaining=remaining-(onehundred*c);//188-100=88
+	    int d=remaining/fifty;//88/50=1
+	    total=total+fifty*d;
+	    System.out.println(fifty+"*"+d+"="+(fifty*d));
+	    remaining= remaining-(fifty*d);//88-50=38
+	    int e=remaining/twenty;//38/20=1
+	    total=total+twenty*e;
+	    System.out.println(twenty+"*"+e+"="+(twenty*e));
+	    remaining=remaining-(twenty*e);//38-20=18
+	    int f=remaining/ten;//18/10=1
+	    total=total+(ten*f);
+	    System.out.println(ten+"*"+f+"="+(ten*f));
+	    remaining=remaining-(ten*f);//18-10=8
+	    int g=remaining/five;//8/5=1
+	    total=total+(five*g);
+	    System.out.println(five+"*"+g+"="+(five*g));
+	    remaining=remaining-(five*g);//8-5=3
+	    int h=remaining/two;//3/2=1
+	    total=total+(two*h);
+	    System.out.println(two+"*"+h+"="+(two*h));
+	    remaining=remaining-(two*h);//3-2=1
+	    int i= remaining/one;
+	    total=total+(one*i);
+	    System.out.println(one+"*"+i+"="+(one*i));
+	    System.out.println(amount+"="+total);
+	    
+		
+	}
+
+}
+32)Accept 4 digit no from user & reverse it 
+1234
+4321
+package Orangeit;
+
+import java.util.Scanner;
+
+public class reverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n,a,b,c,d;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Number=");
+		n=sc.nextInt();
+	      a=n%10;
+	      n=n/10;
+	      b=n%10;
+	      n=n/10;
+	      c=n%10;
+	      n=n/10;
+	      d=n%10;
+		System.out.println(a+""+b+""+c+""+d);	
+	}
+
+}
+
+33)	Write a program to find the square and cube of a given number?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int number;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter Number =");
+	    number=s.nextInt();
+	    int square=number*number;
+	    int cube=number*number*number;
+	    System.out.println("Square Of"+number+"="+square);
+	    System.out.println("cube Of"+number+"="+cube);
+		
+
+	}
+
+}
+
+34)Write a program to find the square root of a given number (use sqrt () function)?Math.sqrt(a)
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double n1;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number :");
+		n1=s.nextInt();
+		System.out.println(Math.sqrt(n1));
+
+	}
+
+}
+
+35)Write a program to find the area and perimeter of a square?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a,area,Perimeter;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter A value:");
+		a=s.nextInt();
+		area=a*a;
+		Perimeter=4*a;
+		System.out.println("Area of Square="+area);
+		System.out.println("Perimeter of Square="+Perimeter);
+
+
+	}
+
+}
+
+36)Write a program to find the area of a sphere?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int r;
+		 double pi=3.14,area;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter R value:");
+		r=s.nextInt();
+		area=4*pi*(r*r);
+		System.out.println("Area Of Sphere :"+area);
+	}
+
+}
+
+38)Write a program to find the volume of a cylinder?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub
+				int r,h;
+				 double pi=3.14,volume ;
+				Scanner s=new Scanner(System.in);
+				System.out.println("Enter R  & H value:");
+				r=s.nextInt();
+				h=s.nextInt();
+				volume=pi*(r*r)*h;
+				System.out.println("Volume Of Cylider :"+volume);
+				
+	
+	}
+
+}
+
+39)Write a program to find the your age in days?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int age,days;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter age");
+		age=s.nextInt();
+		
+		days=age*365;
+		System.out.println("Age In days="+days);
+		
+
+	}
+
+}
+
+
+40)	Write a program to find the simple interest and compound interest?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double si,Principal,Rate,Time,ci;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter Principle ,Rate,Time :");
+		Principal=s.nextDouble();
+		Rate=s.nextDouble();
+		Time=s.nextDouble();
+		si=Principal*Rate*Time;
+		ci=Principal * (Math.pow((1 + Rate / 100), Time)); 
+		System.out.println("Simple Intrest ="+si);
+		System.out.println("Compound Intrest ="+ci);
+
+	}
+
+}
+
+41)The total mechanical energy of a particle is given by e=mgh+(1/2) mv^2?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int m,g,h,v,e;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter m,g,h,v ");
+		m=s.nextInt();
+		g=s.nextInt();
+		h=s.nextInt();
+		v=s.nextInt();
+		e=(m*g*h)+(1/2)*(m*v*v);
+		System.out.println("E="+e);
+
+	}
+42)A milk vendor buys milk at the rate of 3.25/- the then adds a liter of water for every 4 liters of milk and sells the water milk at the rate of 4.15/1t. calculate the gain for milk vendor?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p13 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double milkvendorbuysmilk,buysmilkrate=3.25,sellmikrate=4.15;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter milk quantity:");
+		milkvendorbuysmilk=s.nextDouble();
+		
+		double totalbuymilkrate=milkvendorbuysmilk*buysmilkrate;
+		System.out.println("Milk vendor buys milk rate :"+totalbuymilkrate);
+		System.out.println("Milk vendor added l liter water for 4 liter milk");
+		double addingwaterinmilk=milkvendorbuysmilk/4;
+		 milkvendorbuysmilk=milkvendorbuysmilk+addingwaterinmilk;
+		 System.out.println("Milk vendor sells the milk 4.15");
+          double   totalprofitaftersells= milkvendorbuysmilk*sellmikrate;
+          System.out.println( "total milk sells amount="+totalprofitaftersells);
+		 System.out.println("milk vendor profit="+(totalprofitaftersells-totalbuymilkrate));
+		
+		
+		
+		
+
+	}
+
+}
+43)Given the coordinates of two points (x1,y1) and (x2,y2). Write a program to find the distance between these two points?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p16 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x1,x2,y1,y2,distance;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter x1,x2,y1,y2");
+		x1=s.nextInt();
+		x2=s.nextInt();
+		y1=s.nextInt();
+		y2=s.nextInt();
+		distance=((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1));
+		System.out.println(" distance between two points:"+Math.sqrt(distance));
+		
+		}
+
+}
+
+
+44)Rajesh’s basic salary is input through the keyboard. His D.A. is 40% of basic salary, and
+H.R.A. is 20% of basic salary. Write a program to calculate his gross salary?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p17 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int basicsalary;
+		double hra,da,gs;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter yoour basic Salary:");
+		basicsalary=s.nextInt();
+		
+		hra=basicsalary*0.20;
+		da=basicsalary*0.40;
+		gs=hra+da;
+		System.out.println(" HRA="+hra+" DA="+da+" Gross Salary="+gs);
+		
+
+	}
+
+}
+
+45)	Write a program which accepts the amount in dollars and convert into rupees?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p19 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int dollars;
+		double rupees;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter doller to convert ruppes:");	
+		dollars=s.nextInt();
+		rupees=dollars*83.97;
+		System.out.println("dollars="+dollars+"="+rupees+"rupees");
+		}
+
+}
+
+46)Write a program to read your address and print it?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p20 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String Address;
+		Scanner S=new Scanner(System.in);
+		System.out.println("Enter your Address:");
+		Address=S.nextLine();
+		System.out.println(" your Address is:"+Address);
+		
+	}
+
+}
+
+47)Write a program to print the area of triangle if b and h values are given?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p21 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		float b,h,A;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter  B & H value :");
+		b=s.nextFloat();
+		h=s.nextFloat();
+		 A = (b * h) / 2;
+		 System.out.println("Area Of Triangle :"+A);
+		
+		
+		
+		
+
+	}
+
+}
+48)Write a program to print the area of triangle if three sides are given?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p22 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double a,b,c, area,s;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Three Sides Values");
+		a=sc.nextDouble();
+		b=sc.nextDouble();
+		c=sc.nextDouble();
+		
+		  s = (a + b + c) / 2;
+		 System.out.println("semiconductor:"+s);
+	       area = Math.sqrt(s *(s - a)*(s - b)*(s - c));
+	      
+	     System.out.println("Area of triangle 3 sides:"+area );
+	     
+			
+
+	}
+
+}
+
+49)Write a program to read the marks of 3 subjects and display the total, per?
+package Orangeit;
+
+import java.util.Scanner;
+
+public class calculateper {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int marathi,English,Maths,total,avg;
+		double per;
+		System.out.println("Enter 5 Subject Marks:");
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Marathi Marks:");
+		marathi=sc.nextInt();
+		System.out.println("Enter English Marks:");
+		English=sc.nextInt();
+		System.out.println("Enter Maths Marks:");
+		Maths=sc.nextInt();
+		System.out.println("Enter History Marks:");
+		
+		total=marathi+English+Maths;
+		per=total/3;
+		System.out.println("Total marks of 3 Subject:"+total);
+		System.out.println("avg:"+avg);
+		
+		
+		
+
+	}
+
+}
+50) Check Number is positive or negative
+package Orangeit;
+
+import java.util.Scanner;
+
+public class p24 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int number;
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter number :");
+		number=s.nextInt();
+		if(number>0)
+		{
+			System.out.println(number+"is positive number");
+		}
+	else if(number<0)
+		{
+			System.out.println(number+"is negative number");
+		}
+	else
+	{System.out.println(number+"is zero");
+		
+	}
+		
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
